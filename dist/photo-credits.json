@@ -1,0 +1,2120 @@
+{
+  "note": "Country photographs are resized, encoded as WebP, and cropped to fit their display. Each photograph retains its source license.",
+  "photos": {
+    "AE": {
+      "image": "images/countries/ae.webp",
+      "caption": "Dubai skyline. The tallest building in the world, Burj Khalifa, can be seen in the background.",
+      "credit": "Nino Verde",
+      "source": "https://commons.wikimedia.org/wiki/File:Dubai_aerial_view.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/United_Arab_Emirates"
+    },
+    "JO": {
+      "image": "images/countries/jo.webp",
+      "caption": "Arch of Hadrian in Jerash",
+      "credit": "Diego Delso",
+      "source": "https://commons.wikimedia.org/wiki/File:Arch_of_Hadrian,_Jerash,_Jordan2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Jordan"
+    },
+    "SA": {
+      "image": "images/countries/sa.webp",
+      "caption": "The Kaaba in Mecca",
+      "credit": "Al Jazeera English",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Kaaba_-_Flickr_-_Al_Jazeera_English.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saudi_Arabia"
+    },
+    "BH": {
+      "image": "images/countries/bh.webp",
+      "caption": "Closeup of the restored Bahrain Fort",
+      "credit": "User: (WT-shared) Hscholz at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Bahrain_fort_closeup.jpg",
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bahrain"
+    },
+    "QA": {
+      "image": "images/countries/qa.webp",
+      "caption": "Zubarah Fort",
+      "credit": "bert.caste from Doha, Qatar",
+      "source": "https://commons.wikimedia.org/wiki/File:Fort_Zubara,_Qatar_(2371639734).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Qatar"
+    },
+    "OM": {
+      "image": "images/countries/om.webp",
+      "caption": "The Corniche at Mutrah",
+      "credit": "Flickr user: Andries3 https://www.flickr.com/photos/andriesoudshoorn/",
+      "source": "https://commons.wikimedia.org/wiki/File:Oman_-_Muscat_-_Mutrah.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Oman"
+    },
+    "KW": {
+      "image": "images/countries/kw.webp",
+      "caption": "Kuwait City skyline during daytime",
+      "credit": "M ALATTAR ALATTAR",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuwait_city_cityscape.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kuwait"
+    },
+    "IR": {
+      "image": "images/countries/ir.webp",
+      "caption": "Yazd",
+      "credit": "Emesik",
+      "source": "https://commons.wikimedia.org/wiki/File:Yazd_panorama.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Iran"
+    },
+    "LB": {
+      "image": "images/countries/lb.webp",
+      "caption": "Bacchus temple, Baalbek",
+      "credit": "BlingBling10 at the English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Baalbek-Bacchus.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Lebanon"
+    },
+    "IQ": {
+      "image": "images/countries/iq.webp",
+      "caption": "Ur",
+      "credit": "Kaufingdude",
+      "source": "https://commons.wikimedia.org/wiki/File:Ruins_of_Ur_2.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Iraq"
+    },
+    "IL": {
+      "image": "images/countries/il.webp",
+      "caption": "Front of the Bahàì World Center, in the northern city of Haifa",
+      "credit": "Edoardo Marascalchi (EdoM)",
+      "source": "https://commons.wikimedia.org/wiki/File:Haifa-Bahai_world_center_front.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Israel"
+    },
+    "PS": {
+      "image": "images/countries/ps.webp",
+      "caption": "Church of Nativity in Bethlehem",
+      "credit": "Berthold Werner",
+      "source": "https://commons.wikimedia.org/wiki/File:Bethlehem_BW_2010-09-21_12-34-02.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Palestinian_territories"
+    },
+    "SY": {
+      "image": "images/countries/sy.webp",
+      "caption": "View of Damascus",
+      "credit": "upyernoz",
+      "source": "https://commons.wikimedia.org/wiki/File:Overview_of_Damascus.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Syria"
+    },
+    "YE": {
+      "image": "images/countries/ye.webp",
+      "caption": "Shaharah Bridge",
+      "credit": "Bernard Gagnon",
+      "source": "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Yemen"
+    },
+    "TR": {
+      "image": "images/countries/tr.webp",
+      "caption": "Hot air balloons of Cappadocia",
+      "credit": "Rumeysaraz",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_Balloons_and_Rock_Sites_of_Cappadocia.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Turkey"
+    },
+    "EG": {
+      "image": "images/countries/eg.webp",
+      "caption": "The pyramids of Giza need no further introduction",
+      "credit": "Moh hakem",
+      "source": "https://commons.wikimedia.org/wiki/File:The_amazing_Giza_Pyramids.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Egypt"
+    },
+    "AF": {
+      "image": "images/countries/af.webp",
+      "caption": "Band-e Amir National Park",
+      "credit": "Carl Montgomery",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Band-e-Amir.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Afghanistan"
+    },
+    "AX": {
+      "image": "images/countries/ax.webp",
+      "caption": "Mariehamn",
+      "credit": "Veeti Davidsson",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Mariehamn,_2022.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/%C3%85land"
+    },
+    "AL": {
+      "image": "images/countries/al.webp",
+      "caption": "Valbona river in Tropoja",
+      "credit": "Albinfo",
+      "source": "https://commons.wikimedia.org/wiki/File:Valbona.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Albania"
+    },
+    "DZ": {
+      "image": "images/countries/dz.webp",
+      "caption": "Timgad",
+      "credit": "PhR61",
+      "source": "https://commons.wikimedia.org/wiki/File:Timgad_Trajan.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Algeria"
+    },
+    "AS": {
+      "image": "images/countries/as.webp",
+      "caption": "Dock at Fagatogo, Pago Pago Harbor",
+      "credit": "Eric Guinther at the English-language Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Fagatogo_Dock.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/American_Samoa"
+    },
+    "AD": {
+      "image": "images/countries/ad.webp",
+      "caption": "Scenery is the country's greatest treasure.",
+      "credit": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+      "source": "https://commons.wikimedia.org/wiki/File:Entre_Coll_d%27Ordino_e_Canillo._Andorra_30.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Andorra"
+    },
+    "AO": {
+      "image": "images/countries/ao.webp",
+      "caption": "Oasis in the Namib desert in southern Angola",
+      "credit": "Paulo César Santos",
+      "source": "https://commons.wikimedia.org/wiki/File:Mini_oasis_in_the_namibe_desert,_Angola.JPG",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Angola"
+    },
+    "AI": {
+      "image": "images/countries/ai.webp",
+      "caption": "Sandy Ground",
+      "credit": "Wikimedia Commons · author not listed",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandy_Ground_Anguilla.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Anguilla"
+    },
+    "AQ": {
+      "image": "images/countries/aq.webp",
+      "caption": "Transantarctic mountains",
+      "credit": "Hannes Grobe , Alfred Wegener Institute",
+      "source": "https://commons.wikimedia.org/wiki/File:Transantarctic_mountain_hg.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Antarctica"
+    },
+    "AR": {
+      "image": "images/countries/ar.webp",
+      "caption": "Argentine National Congress, located in the city of Buenos Aires",
+      "credit": "Jacobo Tarrío",
+      "source": "https://commons.wikimedia.org/wiki/File:Congreso_Nacional_Buenos_Aires.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Argentina"
+    },
+    "AG": {
+      "image": "images/countries/ag.webp",
+      "caption": "Harbour of St. John's",
+      "credit": "User: Oskarp at wikivoyage shared",
+      "source": "https://commons.wikimedia.org/wiki/File:Hafen_von_St_John%27s.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Antigua_and_Barbuda"
+    },
+    "AM": {
+      "image": "images/countries/am.webp",
+      "caption": "Lake Sevan",
+      "credit": "Vigen Hakhverdyan",
+      "source": "https://commons.wikimedia.org/wiki/File:Sevanavanq5.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Armenia"
+    },
+    "AT": {
+      "image": "images/countries/at.webp",
+      "caption": "View of Innsbruck",
+      "credit": "Ikiwaner",
+      "source": "https://commons.wikimedia.org/wiki/File:Innsbruck_Flusspromenade.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Austria"
+    },
+    "BS": {
+      "image": "images/countries/bs.webp",
+      "caption": "Yachts aplenty, Paradise Island",
+      "credit": "User: (WT-shared) Jpatokal at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Atlantis_Marina_YachtJam.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bahamas"
+    },
+    "AZ": {
+      "image": "images/countries/az.webp",
+      "caption": "Landscape in Göygöl National Park",
+      "credit": "Rəşad İsgəndəroğlu ( Isr Obvius )",
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%B6yg%C3%B6l_Milli_Park%C4%B1_(2).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Azerbaijan"
+    },
+    "BD": {
+      "image": "images/countries/bd.webp",
+      "caption": "The Cox's Bazar beach, the longest natural sandy beach in the world",
+      "credit": "No machine-readable author provided. Ed g2s assumed (based on copyright claims).",
+      "source": "https://commons.wikimedia.org/wiki/File:Cox%27s_Bazar_boats.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bangladesh"
+    },
+    "BB": {
+      "image": "images/countries/bb.webp",
+      "caption": "Bridgetown Promenade",
+      "credit": "Loozrboy from Toronto, Canada",
+      "source": "https://commons.wikimedia.org/wiki/File:Bridgetown_Promenade.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Barbados"
+    },
+    "BY": {
+      "image": "images/countries/by.webp",
+      "caption": "Independence Square in Minsk",
+      "credit": "Zedlik",
+      "source": "https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezale%C5%BEna%C5%9Bci.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Belarus"
+    },
+    "BE": {
+      "image": "images/countries/be.webp",
+      "caption": "Spa",
+      "credit": "Jean-Pol GRANDMONT",
+      "source": "https://commons.wikimedia.org/wiki/File:Spa_So1JPG.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Belgium"
+    },
+    "BZ": {
+      "image": "images/countries/bz.webp",
+      "caption": "Pier in Caye Caulker",
+      "credit": "dronepicr",
+      "source": "https://commons.wikimedia.org/wiki/File:Beautiful_pier_Caye_Caulker_Belize_(21401259271).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Belize"
+    },
+    "BM": {
+      "image": "images/countries/bm.webp",
+      "caption": "Residential scene in Bermuda",
+      "credit": "(WT-en) Legrospaumé at English Wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Bermuda_wv.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bermuda"
+    },
+    "BT": {
+      "image": "images/countries/bt.webp",
+      "caption": "Dzong in Paro",
+      "credit": "Arian Zwegers from Brussels, Belgium",
+      "source": "https://commons.wikimedia.org/wiki/File:Paro_Dzong_(15656348118).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bhutan"
+    },
+    "BO": {
+      "image": "images/countries/bo.webp",
+      "caption": "Gate of the Sun, Tiwanaku",
+      "credit": "Mendorock",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_Posterior_de_la_Puerta_del_Sol.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bolivia"
+    },
+    "BW": {
+      "image": "images/countries/bw.webp",
+      "caption": "Kalahari Desert",
+      "credit": "Winfried Bruenken ( Amrum )",
+      "source": "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036.JPG",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Botswana"
+    },
+    "BA": {
+      "image": "images/countries/ba.webp",
+      "caption": "Travnik",
+      "credit": "Julian Nyča",
+      "source": "https://commons.wikimedia.org/wiki/File:Travnik_Panorama_1.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bosnia_and_Herzegovina"
+    },
+    "IO": {
+      "image": "images/countries/io.webp",
+      "caption": "Ruins of a church on Boddam Island",
+      "credit": "Dunog",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%89glise_Boddam.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/British_Indian_Ocean_Territory"
+    },
+    "VG": {
+      "image": "images/countries/vg.webp",
+      "caption": "Cruise ship in Tortola",
+      "credit": "Balou46",
+      "source": "https://commons.wikimedia.org/wiki/File:BVI-road_town_blick_zum_hafen.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/British_Virgin_Islands"
+    },
+    "BN": {
+      "image": "images/countries/bn.webp",
+      "caption": "Jame' Asr Hassanil Bolkiah Mosque in Bandar Seri Begawan",
+      "credit": "JERRYE AND ROY KLOTZ MD",
+      "source": "https://commons.wikimedia.org/wiki/File:JAME%E2%80%99ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Brunei"
+    },
+    "BG": {
+      "image": "images/countries/bg.webp",
+      "caption": "Alexander Nevski Cathedral, Sofia",
+      "credit": "Plamen Agov • studiolemontree.com",
+      "source": "https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bulgaria"
+    },
+    "BF": {
+      "image": "images/countries/bf.webp",
+      "caption": "Sindou Peaks",
+      "credit": "Stefan Dressler",
+      "source": "https://commons.wikimedia.org/wiki/File:Pics_de_Sindou_WP32_SDr9756.JPG",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Burkina_Faso"
+    },
+    "BI": {
+      "image": "images/countries/bi.webp",
+      "caption": "The road between Gitega and Bujumbura",
+      "credit": "Dave Proffer",
+      "source": "https://commons.wikimedia.org/wiki/File:Road_between_Burundi_Gitega_and_Bujumbura_-_Flickr_-_Dave_Proffer_(4).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Burundi"
+    },
+    "KH": {
+      "image": "images/countries/kh.webp",
+      "caption": "Royal palace",
+      "credit": "User: (WT-shared) Jpatokal at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:PreahTineahChanchhaya.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cambodia"
+    },
+    "BV": {
+      "image": "images/countries/bv.webp",
+      "caption": "Cape Valdivia, 12,460 km from mainland Norway",
+      "credit": "1447",
+      "source": "https://commons.wikimedia.org/wiki/File:Bouvet_island.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Bouvet_Island"
+    },
+    "CA": {
+      "image": "images/countries/ca.webp",
+      "caption": "Moraine Lake in Banff National Park",
+      "credit": "Traveler100",
+      "source": "https://commons.wikimedia.org/wiki/File:MoraineLakeP01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Canada"
+    },
+    "CV": {
+      "image": "images/countries/cv.webp",
+      "caption": "Casal na Praia de Leste",
+      "credit": "HenriqueRosaFotografia",
+      "source": "https://commons.wikimedia.org/wiki/File:Casal_na_Praia_de_Leste.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cape_Verde"
+    },
+    "BQ": {
+      "image": "images/countries/bq.webp",
+      "caption": "A view on the village of Windwardside, from the summit of Mt Scenery, on the island of Saba in the Netherlands Antilles, taken on a rare cloudless day; Saba banner",
+      "credit": "Radioflux",
+      "source": "https://commons.wikimedia.org/wiki/File:Saba-banner.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Caribbean_Netherlands"
+    },
+    "KY": {
+      "image": "images/countries/ky.webp",
+      "caption": "Seven Mile Beach",
+      "credit": "Coolcaesar",
+      "source": "https://commons.wikimedia.org/wiki/File:Seven_Mile_Beach_Facing_North.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cayman_Islands"
+    },
+    "CF": {
+      "image": "images/countries/cf.webp",
+      "caption": "Chutes de Boali",
+      "credit": "Philippe JIMENEZ",
+      "source": "https://commons.wikimedia.org/wiki/File:Republique_Centrafricaine_-_Boali_-_Chutes_de_Boali.jpg",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Central_African_Republic"
+    },
+    "TD": {
+      "image": "images/countries/td.webp",
+      "caption": "Road bridge on Bragoto river",
+      "credit": "Wikimedia Commons · author not listed",
+      "source": "https://commons.wikimedia.org/wiki/File:Rebuilt_bridge_on_Bragoto_River.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Chad"
+    },
+    "CL": {
+      "image": "images/countries/cl.webp",
+      "caption": "A view towards Torres del Paine National Park",
+      "credit": "Winky from Oxford, UK",
+      "source": "https://commons.wikimedia.org/wiki/File:A_view_towards_Torres_Del_Paine.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Chile"
+    },
+    "CM": {
+      "image": "images/countries/cm.webp",
+      "caption": "Cathedral in Yaounde",
+      "credit": "Wikimedia Commons · author not listed",
+      "source": "https://commons.wikimedia.org/wiki/File:Yaound%C3%A9_Cath%C3%A9drale.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cameroon"
+    },
+    "CX": {
+      "image": "images/countries/cx.webp",
+      "caption": "Flying Fish Cove",
+      "credit": "DIAC images",
+      "source": "https://commons.wikimedia.org/wiki/File:Christmas_Island_(5775100858).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Christmas_Island"
+    },
+    "CO": {
+      "image": "images/countries/co.webp",
+      "caption": "Parque Nacional de los Nevados in Caldas",
+      "credit": "User: (WT-shared) CONOCER at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Nevado_del_Ruiz_Valle_de_los_muertos.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Colombia"
+    },
+    "CC": {
+      "image": "images/countries/cc.webp",
+      "caption": "Oceania House",
+      "credit": "MUK",
+      "source": "https://commons.wikimedia.org/wiki/File:Cocos(Keeling)Island_OceaniaHouse.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cocos_%28Keeling%29_Islands"
+    },
+    "CG": {
+      "image": "images/countries/cg.webp",
+      "caption": "Landscape at the Alima River, a tributary to the Congo River",
+      "credit": "Bsm15",
+      "source": "https://commons.wikimedia.org/wiki/File:Alima_-_Congo.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo"
+    },
+    "KM": {
+      "image": "images/countries/km.webp",
+      "caption": "Grande Comoros Harbor Bay",
+      "credit": "Sascha Grabow www.saschagrabow.com",
+      "source": "https://commons.wikimedia.org/wiki/File:Grande_Comore_Harbor_Bay_Photo_by_Sascha_Grabow.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Comoros"
+    },
+    "CK": {
+      "image": "images/countries/ck.webp",
+      "caption": "Traditional boat",
+      "credit": "Christopher Johnson from Tokyo, Japan",
+      "source": "https://commons.wikimedia.org/wiki/File:Cook_Islands_IMG_6418_2_(8451970309).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cook_Islands"
+    },
+    "CR": {
+      "image": "images/countries/cr.webp",
+      "caption": "Cartago",
+      "credit": "belemita@gmail.com",
+      "source": "https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Costa_Rica"
+    },
+    "CU": {
+      "image": "images/countries/cu.webp",
+      "caption": "Viñales National Park",
+      "credit": "Alfre0411",
+      "source": "https://commons.wikimedia.org/wiki/File:Valle_de_Vi%C3%B1ales_2.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cuba"
+    },
+    "CW": {
+      "image": "images/countries/cw.webp",
+      "caption": "Willemstad",
+      "credit": "Coolcaesar",
+      "source": "https://commons.wikimedia.org/wiki/File:Handelskade_in_Willemstad.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cura%C3%A7ao"
+    },
+    "CY": {
+      "image": "images/countries/cy.webp",
+      "caption": "Landscape near Trodos",
+      "credit": "Michal Osmenda from Brussels, Belgium",
+      "source": "https://commons.wikimedia.org/wiki/File:Near_Trodos,_Cyprus_(8132780501).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Cyprus"
+    },
+    "CZ": {
+      "image": "images/countries/cz.webp",
+      "caption": "Karlovy Vary",
+      "credit": "Dudva",
+      "source": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_downtown_2..jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Czech_Republic"
+    },
+    "DK": {
+      "image": "images/countries/dk.webp",
+      "caption": "Møns Klint",
+      "credit": "A.Savin",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_M%C3%B8ns_Klint_asv2024-07_img5.jpg",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Denmark"
+    },
+    "DJ": {
+      "image": "images/countries/dj.webp",
+      "caption": "Lake Assal",
+      "credit": "Fishercd",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Djibouti"
+    },
+    "DM": {
+      "image": "images/countries/dm.webp",
+      "caption": "The expansive view at Scott's Head",
+      "credit": "Aneil Lutchman",
+      "source": "https://commons.wikimedia.org/wiki/File:Scotts_Head_Dominica.JPG",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Dominica"
+    },
+    "CD": {
+      "image": "images/countries/cd.webp",
+      "caption": "Epulu River",
+      "credit": "J. Doremus",
+      "source": "https://commons.wikimedia.org/wiki/File:Epulu_River_Ituri.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo"
+    },
+    "DO": {
+      "image": "images/countries/do.webp",
+      "caption": "Playa Frontón, Samaná Peninsula",
+      "credit": "Danu Widjajanto",
+      "source": "https://commons.wikimedia.org/wiki/File:Playa_Front%C3%B3n_December_2020_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Dominican_Republic"
+    },
+    "SV": {
+      "image": "images/countries/sv.webp",
+      "caption": "A Mayan pyramid at the San Andres Archeological Site",
+      "credit": "User: (WT-shared) Guanaco152003 at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Sanandrezpyramid.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/El_Salvador"
+    },
+    "EC": {
+      "image": "images/countries/ec.webp",
+      "caption": "Climbing Cotopaxi",
+      "credit": "Bbb-Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:EC_Cotopaxi_NRouteISlope_2012.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Ecuador"
+    },
+    "ER": {
+      "image": "images/countries/er.webp",
+      "caption": "Vibrant street in Asmara",
+      "credit": ".Jacopo. from Italy",
+      "source": "https://commons.wikimedia.org/wiki/File:Asmara_street.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Eritrea"
+    },
+    "GQ": {
+      "image": "images/countries/gq.webp",
+      "caption": "Santa Isabel Cathedral in Malabo",
+      "credit": "Denis Barthel",
+      "source": "https://commons.wikimedia.org/wiki/File:Santa_Isabel_Malabo_20131224_140204.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Equatorial_Guinea"
+    },
+    "EE": {
+      "image": "images/countries/ee.webp",
+      "caption": "The medieval old town of Tallinn",
+      "credit": "Steve Jurvetson",
+      "source": "https://commons.wikimedia.org/wiki/File:Vaade_Oleviste_tornist_2004.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Estonia"
+    },
+    "SZ": {
+      "image": "images/countries/sz.webp",
+      "caption": "Nhlangano",
+      "credit": "Kr1kr1kr1",
+      "source": "https://commons.wikimedia.org/wiki/File:2012-10-06-nhlangano_town_center_jacaranda.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Eswatini"
+    },
+    "ET": {
+      "image": "images/countries/et.webp",
+      "caption": "Tomb of Adam, Lalibela",
+      "credit": "Justin Clements from Milano, Italy",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Adam.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Ethiopia"
+    },
+    "FO": {
+      "image": "images/countries/fo.webp",
+      "caption": "The village Sumba in Suðuroy",
+      "credit": "Eileen Sandá",
+      "source": "https://commons.wikimedia.org/wiki/File:Sumba,_Faroe_Islands.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Faroe_Islands"
+    },
+    "FJ": {
+      "image": "images/countries/fj.webp",
+      "caption": "Fiji is a popular holiday destination.",
+      "credit": "Fijiisparadise",
+      "source": "https://commons.wikimedia.org/wiki/File:Denarau_Island_in_Fiji,_2013.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Fiji"
+    },
+    "FI": {
+      "image": "images/countries/fi.webp",
+      "caption": "Koli National Park",
+      "credit": "Lobke Thijssen",
+      "source": "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Finland"
+    },
+    "FR": {
+      "image": "images/countries/fr.webp",
+      "caption": "Place Bellecour in Lyon",
+      "credit": "Chris 73 / Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Place_Bellecour_Lyon_Panorama.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/France"
+    },
+    "GF": {
+      "image": "images/countries/gf.webp",
+      "caption": "The botanical garden of Cayenne",
+      "credit": "Didwin973",
+      "source": "https://commons.wikimedia.org/wiki/File:Jardinbotanique.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/French_Guiana"
+    },
+    "PF": {
+      "image": "images/countries/pf.webp",
+      "caption": "Fishermen in the Taha'a atoll",
+      "credit": "David Broad",
+      "source": "https://commons.wikimedia.org/wiki/File:West_side_of_Taha%27a_atoll_-_fishing_inside_the_reef_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/French_Polynesia"
+    },
+    "TF": {
+      "image": "images/countries/tf.webp",
+      "caption": "Port-aux-Français, Kerguelen",
+      "credit": "Daniel Delille",
+      "source": "https://commons.wikimedia.org/wiki/File:Port_aux_Fran%C3%A7ais.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/French_Southern_and_Antarctic_Lands"
+    },
+    "GA": {
+      "image": "images/countries/ga.webp",
+      "caption": "Rainforest in Gabon",
+      "credit": "Axel Rouvin [2]",
+      "source": "https://commons.wikimedia.org/wiki/File:Rainforest_Gabon.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Gabon"
+    },
+    "GM": {
+      "image": "images/countries/gm.webp",
+      "caption": "A beach in The Gambia",
+      "credit": "uploader Atamari has eMail-contact with the photograph „ KG “",
+      "source": "https://commons.wikimedia.org/wiki/File:Gambia_111_from_KG.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Gambia"
+    },
+    "GE": {
+      "image": "images/countries/ge.webp",
+      "caption": "Rugged alpine landscapes of Svaneti in Northwestern Georgia",
+      "credit": "Lodian",
+      "source": "https://commons.wikimedia.org/wiki/File:The_alpine_landscapes_of_northwestern_Georgia,_southeastern_Europe.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Georgia_%28country%29"
+    },
+    "DE": {
+      "image": "images/countries/de.webp",
+      "caption": "Brandenburg Gate in Berlin",
+      "credit": "Thomas Wolf, www.foto-tw.de",
+      "source": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Germany"
+    },
+    "GH": {
+      "image": "images/countries/gh.webp",
+      "caption": "Rainforest canopy walk at Kakum National Park",
+      "credit": "Stig Nygaard from Copenhagen, Denmark",
+      "source": "https://commons.wikimedia.org/wiki/File:Ghana_footbridge1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Ghana"
+    },
+    "GI": {
+      "image": "images/countries/gi.webp",
+      "caption": "Rock of Gibraltar and Europa Point Lighthouse (lower right)",
+      "credit": "rob Stoeltje",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibraltar_from_the_Strait.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Gibraltar"
+    },
+    "GR": {
+      "image": "images/countries/gr.webp",
+      "caption": "Oia",
+      "credit": "Mstyslav Chernov",
+      "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Greece"
+    },
+    "GL": {
+      "image": "images/countries/gl.webp",
+      "caption": "Qaanaaq",
+      "credit": "Col. Lee-Volker Cox",
+      "source": "https://commons.wikimedia.org/wiki/File:Qaanaaq,_Greenland.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Greenland"
+    },
+    "FK": {
+      "image": "images/countries/fk.webp",
+      "caption": "\"The Neck\" on Saunders Island",
+      "credit": "Copyright 2004, Ryan Holliday (Wrh2) . The original image can be found at [1] .",
+      "source": "https://commons.wikimedia.org/wiki/File:2884-saunders-landscape_RJ.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Falkland_Islands"
+    },
+    "GD": {
+      "image": "images/countries/gd.webp",
+      "caption": "Morne Rouge Beach",
+      "credit": "(WT/de) Theo",
+      "source": "https://commons.wikimedia.org/wiki/File:Mornerouge.jpeg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Grenada"
+    },
+    "GU": {
+      "image": "images/countries/gu.webp",
+      "caption": "Guam's Capital, Hagåtña",
+      "credit": "Abasaa",
+      "source": "https://commons.wikimedia.org/wiki/File:Hagatna_from_Fort_Santa_Agueda.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guam"
+    },
+    "GP": {
+      "image": "images/countries/gp.webp",
+      "caption": "Façade of Fort Napoléon des Saintes, Terre-de-Haut Island, Îles des Saintes",
+      "credit": "Kim Hansen",
+      "source": "https://commons.wikimedia.org/wiki/File:Fort_Napol%C3%A9on_des_Saintes_2010-03-30.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guadeloupe"
+    },
+    "GT": {
+      "image": "images/countries/gt.webp",
+      "caption": "Temple 1 at 'Tikal' with surrounding Central Acropolis buildings",
+      "credit": "Gabridelca · brightness edit by Reywas92",
+      "source": "https://commons.wikimedia.org/wiki/File:Tikal_Giaguaro.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guatemala"
+    },
+    "GG": {
+      "image": "images/countries/gg.webp",
+      "caption": "Castle Cornet",
+      "credit": "Surgeonsmate at the English-language Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Castle_Cornet_Floodlit.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guernsey"
+    },
+    "GN": {
+      "image": "images/countries/gn.webp",
+      "caption": "Fouta Djalon landscape",
+      "credit": "Maarten van der Bent",
+      "source": "https://commons.wikimedia.org/wiki/File:Fouta_Djallon_(14582291826).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guinea"
+    },
+    "GW": {
+      "image": "images/countries/gw.webp",
+      "caption": "Savannah landscape with termite hills",
+      "credit": "Francofranco56",
+      "source": "https://commons.wikimedia.org/wiki/File:Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guinea-Bissau"
+    },
+    "GY": {
+      "image": "images/countries/gy.webp",
+      "caption": "Street view in Georgetown",
+      "credit": "Ian Mackenzie",
+      "source": "https://commons.wikimedia.org/wiki/File:Georgetown_street,_Guyana.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Guyana"
+    },
+    "HT": {
+      "image": "images/countries/ht.webp",
+      "caption": "Citadelle Laferrière in Milot",
+      "credit": "User: (WT-shared) Van at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_2006.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Haiti"
+    },
+    "HM": {
+      "image": "images/countries/hm.webp",
+      "caption": "Heard island",
+      "credit": "Tristannew (original) Derivative: SHB2000 (cropped)",
+      "source": "https://commons.wikimedia.org/wiki/File:Heard_Island_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Heard_Island_and_McDonald_Islands"
+    },
+    "HK": {
+      "image": "images/countries/hk.webp",
+      "caption": "View from Tsim Sha Tsui",
+      "credit": "Ralf Roletschek",
+      "source": "https://commons.wikimedia.org/wiki/File:13-08-08-hongkong-by-RalfR-Panorama2.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Hong_Kong"
+    },
+    "HN": {
+      "image": "images/countries/hn.webp",
+      "caption": "Tegucigalpa",
+      "credit": "User: (WT-shared) Velorian at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Honduras"
+    },
+    "IN": {
+      "image": "images/countries/in.webp",
+      "caption": "Mumbai",
+      "credit": "A.Savin",
+      "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_40_Bombay_High_Court.jpg",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/India"
+    },
+    "IS": {
+      "image": "images/countries/is.webp",
+      "caption": "Thingvellir village from above",
+      "credit": "Ypsilon from Finland",
+      "source": "https://commons.wikimedia.org/wiki/File:Thingvellir_village_from_above.JPG",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Iceland"
+    },
+    "ID": {
+      "image": "images/countries/id.webp",
+      "caption": "The temples of Prambanan",
+      "credit": "(WT-en) Jpatokal at English Wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Prambanan_LaraJonggrang.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Indonesia"
+    },
+    "IE": {
+      "image": "images/countries/ie.webp",
+      "caption": "Trim Castle, built by the Normans",
+      "credit": "Bärwinkel,Klaus",
+      "source": "https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Ireland"
+    },
+    "IM": {
+      "image": "images/countries/im.webp",
+      "caption": "Laxey Wheel",
+      "credit": "No machine-readable author provided. Smurrayinchester assumed (based on copyright claims).",
+      "source": "https://commons.wikimedia.org/wiki/File:Laxey_wheel_1.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Isle_of_Man"
+    },
+    "IT": {
+      "image": "images/countries/it.webp",
+      "caption": "Rome (seen from Trinità dei Monti)",
+      "credit": "Jebulon",
+      "source": "https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinit%C3%A9-des-Monts,_Rome,_Italy.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Italy"
+    },
+    "JM": {
+      "image": "images/countries/jm.webp",
+      "caption": "The edge of the Blue Mountains, just north of Kingston.",
+      "credit": "User: (WT-shared) Bz3rk at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Start_of_the_Blue_Mountains_just_north_of_Kingston,_Jamaica.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Jamaica"
+    },
+    "JE": {
+      "image": "images/countries/je.webp",
+      "caption": "Saint Aubin Harbour",
+      "credit": "Man vyi",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Aubin_harbour_Jersey.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Jersey"
+    },
+    "KZ": {
+      "image": "images/countries/kz.webp",
+      "caption": "Landscape in the Altai Mountains",
+      "credit": "Dmitry A. Mottl",
+      "source": "https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kazakhstan"
+    },
+    "KE": {
+      "image": "images/countries/ke.webp",
+      "caption": "Mount Kenya landscape",
+      "credit": "saragoldsmith",
+      "source": "https://commons.wikimedia.org/wiki/File:Mt_Kenya_landscape.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kenya"
+    },
+    "KI": {
+      "image": "images/countries/ki.webp",
+      "caption": "Abaiang Island",
+      "credit": "Flexman",
+      "source": "https://commons.wikimedia.org/wiki/File:Abaiang_top_view.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kiribati"
+    },
+    "XK": {
+      "image": "images/countries/xk.webp",
+      "caption": "View of Gjakova",
+      "credit": "ShkelzenRexha",
+      "source": "https://commons.wikimedia.org/wiki/File:07_Gjakova_Naten_Gjakova_at_Night.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kosovo"
+    },
+    "KG": {
+      "image": "images/countries/kg.webp",
+      "caption": "Tash Rabat",
+      "credit": "Laurent de Walick",
+      "source": "https://commons.wikimedia.org/wiki/File:Landscape_near_Tash_Rabat_Kyrgyzstan.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Kyrgyzstan"
+    },
+    "LA": {
+      "image": "images/countries/la.webp",
+      "caption": "Pha That Luang in Vientiane",
+      "credit": "User: (WT-shared) Jpatokal at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:WatThatLuang_Landscape.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Laos"
+    },
+    "LV": {
+      "image": "images/countries/lv.webp",
+      "caption": "St. Roland's Statue, Old Town, Riga",
+      "credit": "Voytek S",
+      "source": "https://commons.wikimedia.org/wiki/File:Riga_-_Roland%27s_Statue.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Latvia"
+    },
+    "LS": {
+      "image": "images/countries/ls.webp",
+      "caption": "Snow in the mountains of Lesotho",
+      "credit": "Paramente Phamotse",
+      "source": "https://commons.wikimedia.org/wiki/File:Lesotho_snow_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Lesotho"
+    },
+    "LR": {
+      "image": "images/countries/lr.webp",
+      "caption": "Downtown Monrovia",
+      "credit": "Erik (HASH) Hershman",
+      "source": "https://commons.wikimedia.org/wiki/File:Downtown_Monrovia_3348917715_67a2002529.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Liberia"
+    },
+    "LY": {
+      "image": "images/countries/ly.webp",
+      "caption": "Roman ruins in Sabratha",
+      "credit": "Franzfoto",
+      "source": "https://commons.wikimedia.org/wiki/File:Sabratha_-_Forumsgel%C3%A4nde_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Libya"
+    },
+    "LI": {
+      "image": "images/countries/li.webp",
+      "caption": "Balzers Castle",
+      "credit": "A.Savin",
+      "source": "https://commons.wikimedia.org/wiki/File:Liechtenstein_asv2022-10_img26_Balzers_Burg_Gutenberg.jpg",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Liechtenstein"
+    },
+    "LT": {
+      "image": "images/countries/lt.webp",
+      "caption": "Trakai Island Castle",
+      "credit": "Dudva",
+      "source": "https://commons.wikimedia.org/wiki/File:Trakai_Island_Castle_03.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Lithuania"
+    },
+    "LU": {
+      "image": "images/countries/lu.webp",
+      "caption": "View from the 'Grund' district in Luxembourg-city",
+      "credit": "Berthold Werner",
+      "source": "https://commons.wikimedia.org/wiki/File:Luxembourg_BW_2016-09-15_12-44-12.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Luxembourg"
+    },
+    "MO": {
+      "image": "images/countries/mo.webp",
+      "caption": "Largo do Senado",
+      "credit": "Houjou",
+      "source": "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_de_Senado,_Macau.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Macau"
+    },
+    "MG": {
+      "image": "images/countries/mg.webp",
+      "caption": "Fishermen in Nosy Be",
+      "credit": "Jokromberg",
+      "source": "https://commons.wikimedia.org/wiki/File:Fishermen_in_Nosey_Be.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Madagascar"
+    },
+    "MW": {
+      "image": "images/countries/mw.webp",
+      "caption": "M1 highway",
+      "credit": "Hansueli Krapf This file was uploaded with Commonist .",
+      "source": "https://commons.wikimedia.org/wiki/File:2010-10-21_12-32-59_Malawi_-_Kabwanzi.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Malawi"
+    },
+    "MY": {
+      "image": "images/countries/my.webp",
+      "caption": "The iconic Petronas Twin Towers, Kuala Lumpur",
+      "credit": "Brandon Lim LW",
+      "source": "https://commons.wikimedia.org/wiki/File:PetronasKLCC.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Malaysia"
+    },
+    "MV": {
+      "image": "images/countries/mv.webp",
+      "caption": "The view of Bathala from a boat",
+      "credit": "Gzzz",
+      "source": "https://commons.wikimedia.org/wiki/File:Bathala_(Maldives)_6.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Maldives"
+    },
+    "ML": {
+      "image": "images/countries/ml.webp",
+      "caption": "Street scene in Timbuktu",
+      "credit": "Flickr user: upyernose Haverford https://www.flickr.com/people/upyernoz/",
+      "source": "https://commons.wikimedia.org/wiki/File:Timbuktu_street_scene.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mali"
+    },
+    "MT": {
+      "image": "images/countries/mt.webp",
+      "caption": "Golden Bay",
+      "credit": "Sudika",
+      "source": "https://commons.wikimedia.org/wiki/File:Sudika_Golden_Bay.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Malta"
+    },
+    "MH": {
+      "image": "images/countries/mh.webp",
+      "caption": "A Laura beach",
+      "credit": "Stefan Lins from Tokyo, Japan",
+      "source": "https://commons.wikimedia.org/wiki/File:Laura_beach_n_tree_(170671778).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Marshall_Islands"
+    },
+    "MQ": {
+      "image": "images/countries/mq.webp",
+      "caption": "A section of Jardin de Balata.",
+      "credit": "Box-Off-Dreams, Julie.",
+      "source": "https://commons.wikimedia.org/wiki/File:Jardin_de_Balata.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Martinique"
+    },
+    "MR": {
+      "image": "images/countries/mr.webp",
+      "caption": "Much of Mauritania is desert",
+      "credit": "Enrique Diaz from Currently in Lisbon, Portugal",
+      "source": "https://commons.wikimedia.org/wiki/File:Mauritania_desert.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mauritania"
+    },
+    "MU": {
+      "image": "images/countries/mu.webp",
+      "caption": "Chamarel Falls",
+      "credit": "Martin Falbisoner",
+      "source": "https://commons.wikimedia.org/wiki/File:Chamarel_Falls_Mauritius_2.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mauritius"
+    },
+    "YT": {
+      "image": "images/countries/yt.webp",
+      "caption": "The bay fronting the capital",
+      "credit": "Julien.noel",
+      "source": "https://commons.wikimedia.org/wiki/File:2004_12_12_18-24-04_rose_sea_in_mamoudzou_mayotte_island.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mayotte"
+    },
+    "MX": {
+      "image": "images/countries/mx.webp",
+      "caption": "Plaza de la Constitución, also known as Zocalo, Mexico City",
+      "credit": "Flickr user schlaeger",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mexico"
+    },
+    "FM": {
+      "image": "images/countries/fm.webp",
+      "caption": "Ruins at Nan Madol",
+      "credit": "CT Snow from Hsinchu, Taiwan",
+      "source": "https://commons.wikimedia.org/wiki/File:Nan_Madol_5.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Federated_States_of_Micronesia"
+    },
+    "MD": {
+      "image": "images/countries/md.webp",
+      "caption": "Soroca fortress",
+      "credit": "Andrey from Russia",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Soroca_fortress.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Moldova"
+    },
+    "MC": {
+      "image": "images/countries/mc.webp",
+      "caption": "Monaco at dusk",
+      "credit": "JP Miss",
+      "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Monaco_at_dusk.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Monaco"
+    },
+    "MN": {
+      "image": "images/countries/mn.webp",
+      "caption": "Steppe in Hovsgol",
+      "credit": "Arabsalam",
+      "source": "https://commons.wikimedia.org/wiki/File:Kh%C3%B6vsg%C3%B6l_Aimag12.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mongolia"
+    },
+    "ME": {
+      "image": "images/countries/me.webp",
+      "caption": "The monastery at Mount Ostrog",
+      "credit": "William Hall",
+      "source": "https://commons.wikimedia.org/wiki/File:Gornji_manasti_sa_konakom_-_panorama_2008.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Montenegro"
+    },
+    "MS": {
+      "image": "images/countries/ms.webp",
+      "caption": "Sunset from Montserrat's west coast",
+      "credit": "Gillartsny at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Montserrat_sunset.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Montserrat"
+    },
+    "MZ": {
+      "image": "images/countries/mz.webp",
+      "caption": "Fortaleza de São Sebastião, Ilha de Mozambique",
+      "credit": "F Mira from Lisbon, Portugal",
+      "source": "https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Sebasti%C3%A3o-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Mozambique"
+    },
+    "MM": {
+      "image": "images/countries/mm.webp",
+      "caption": "Resting Buddha statue in Bago",
+      "credit": "::::=UT=::::",
+      "source": "https://commons.wikimedia.org/wiki/File:Bago,_Myanmar_(Burma)_-_panoramio_(44).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Myanmar"
+    },
+    "NA": {
+      "image": "images/countries/na.webp",
+      "caption": "German colonial architecture in Swakopmund",
+      "credit": "Ji-Elle",
+      "source": "https://commons.wikimedia.org/wiki/File:Swakopmund-Antonius-Geb%C3%A4ude_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Namibia"
+    },
+    "NR": {
+      "image": "images/countries/nr.webp",
+      "caption": "Conveyor belts for loading phosphate on ships – phosphate mining and the functions supporting it are very visible all around Nauru",
+      "credit": "Vladimir Lysenko (I.)",
+      "source": "https://commons.wikimedia.org/wiki/File:Nauru(07).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Nauru"
+    },
+    "NP": {
+      "image": "images/countries/np.webp",
+      "caption": "Kathmandu Valley",
+      "credit": "*saipal",
+      "source": "https://commons.wikimedia.org/wiki/File:Kathmandu_Valley.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Nepal"
+    },
+    "NL": {
+      "image": "images/countries/nl.webp",
+      "caption": "Kinderdijk windmills",
+      "credit": "Dmytro Balkhovitin",
+      "source": "https://commons.wikimedia.org/wiki/File:Overwaard_Mill_No.4,_sunrise.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Netherlands"
+    },
+    "NC": {
+      "image": "images/countries/nc.webp",
+      "caption": "Nennon beach",
+      "credit": "Roman.b",
+      "source": "https://commons.wikimedia.org/wiki/File:Plage_de_Nennon.JPG",
+      "license": "FAL",
+      "licenseUrl": "https://artlibre.org/licence/lal/en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/New_Caledonia"
+    },
+    "NZ": {
+      "image": "images/countries/nz.webp",
+      "caption": "Milford Sound, one of New Zealand's most spectacular fiords",
+      "credit": "User: (WT-shared) Plug at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/New_Zealand"
+    },
+    "NI": {
+      "image": "images/countries/ni.webp",
+      "caption": "View of Cerro Kilambè",
+      "credit": "Jersan27",
+      "source": "https://commons.wikimedia.org/wiki/File:Cerro_Kilamb%C3%A8.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Nicaragua"
+    },
+    "NE": {
+      "image": "images/countries/ne.webp",
+      "caption": "Elephants in W National Park",
+      "credit": "Roland Hunziker https://www.flickr.com/photos/rolandh/",
+      "source": "https://commons.wikimedia.org/wiki/File:Elephants_bath_park_w_Niger_2006.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Niger"
+    },
+    "NG": {
+      "image": "images/countries/ng.webp",
+      "caption": "Zuma Rock",
+      "credit": "Shiraz Chakera",
+      "source": "https://commons.wikimedia.org/wiki/File:Zumarock.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Nigeria"
+    },
+    "NU": {
+      "image": "images/countries/nu.webp",
+      "caption": "Avatele beach is the largest but has very coarse sand and smashed coral",
+      "credit": "Lagalugah at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Avatele_Beach.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Niue"
+    },
+    "NF": {
+      "image": "images/countries/nf.webp",
+      "caption": "Kingston from Flagstaff Hill, Norfolk Island",
+      "credit": "Inas",
+      "source": "https://commons.wikimedia.org/wiki/File:Kingston_from_Flagstaff_Hill.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Norfolk_Island"
+    },
+    "KP": {
+      "image": "images/countries/kp.webp",
+      "caption": "The three symbols of the Workers' Party of Korea: industrial workers (hammer), peasants (sickle), and intellectuals (calligraphy brush).",
+      "credit": "Uri Tours ( uritours.com )",
+      "source": "https://commons.wikimedia.org/wiki/File:Party_Foundation_Monument_(10875731074).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/North_Korea"
+    },
+    "MK": {
+      "image": "images/countries/mk.webp",
+      "caption": "Church of Saint John at Kaneo overlooking Lake Ohrid",
+      "credit": "Diego Delso",
+      "source": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Juan_Kaneo,_Ohrid,_Macedonia_del_Norte,_2014-04-17,_DD_19.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/North_Macedonia"
+    },
+    "MP": {
+      "image": "images/countries/mp.webp",
+      "caption": "Unai Dankulo Beach, Tinian",
+      "credit": "kajikawa yosiaki",
+      "source": "https://commons.wikimedia.org/wiki/File:Unai_Dankulo,_Tinian,_-2_Jan._2011_a.jpg",
+      "license": "CC BY 2.1 jp",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.1/jp/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Northern_Mariana_Islands"
+    },
+    "NO": {
+      "image": "images/countries/no.webp",
+      "caption": "Atlanterhavsveien with the iconic Storseisundet bridge",
+      "credit": "Sean Hayford O'Leary",
+      "source": "https://commons.wikimedia.org/wiki/File:Atlanterhavsvegen4.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Norway"
+    },
+    "PK": {
+      "image": "images/countries/pk.webp",
+      "caption": "Mohenjo-daro",
+      "credit": "Usman.pg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moenjodaro(a)_by_Usman_Ghani.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Pakistan"
+    },
+    "PW": {
+      "image": "images/countries/pw.webp",
+      "caption": "Rock Islands",
+      "credit": "Peter R. Binter (= Binter ); The original uploader was Binter at German Wikipedia . ( Original text: Peter Binter )",
+      "source": "https://commons.wikimedia.org/wiki/File:Palau-rock-islands20071222.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Palau"
+    },
+    "PA": {
+      "image": "images/countries/pa.webp",
+      "caption": "Dutch Cays, San Blas - Panama",
+      "credit": "Garcia.dennis",
+      "source": "https://commons.wikimedia.org/wiki/File:Cayos_Holandeses_-_Guna_Yala_-_San_Blas_-_Panam%C3%A1_.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Panama"
+    },
+    "PG": {
+      "image": "images/countries/pg.webp",
+      "caption": "View over Port Moresby",
+      "credit": "Mschlauch",
+      "source": "https://commons.wikimedia.org/wiki/File:Port_Moresby_Town_Mschlauch.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Papua_New_Guinea"
+    },
+    "PY": {
+      "image": "images/countries/py.webp",
+      "caption": "Ruins of Jesuit missions in Trinidad",
+      "credit": "Maurice Chédel",
+      "source": "https://commons.wikimedia.org/wiki/File:General_view_-_Trinidad_(Paraguay).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Paraguay"
+    },
+    "PE": {
+      "image": "images/countries/pe.webp",
+      "caption": "Islands made of reeds on Lake Titicaca",
+      "credit": "bobistraveling",
+      "source": "https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Peru"
+    },
+    "PN": {
+      "image": "images/countries/pn.webp",
+      "caption": "Pitcairn Island",
+      "credit": "NOAA",
+      "source": "https://commons.wikimedia.org/wiki/File:Pitcairn_Island_NOAA.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Pitcairn_Islands"
+    },
+    "PL": {
+      "image": "images/countries/pl.webp",
+      "caption": "Wieliczka salt mine",
+      "credit": "Cezary p",
+      "source": "https://commons.wikimedia.org/wiki/File:Wieliczka_salt_mine.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Poland"
+    },
+    "PR": {
+      "image": "images/countries/pr.webp",
+      "caption": "Old San Juan",
+      "credit": "Picture taken by the U.S. National Park Service. See [www.cr.nps.gov/ worldheritage/fort.htm]",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_San_Juan_aerial_view.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Puerto_Rico"
+    },
+    "RE": {
+      "image": "images/countries/re.webp",
+      "caption": "Mafate valley seen from Maido.",
+      "credit": "Tonton Bernardo",
+      "source": "https://commons.wikimedia.org/wiki/File:Maido.mafate.reunion.2012-34.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/R%C3%A9union"
+    },
+    "RO": {
+      "image": "images/countries/ro.webp",
+      "caption": "Peleș Castle",
+      "credit": "Photo: Myrabella / Wikimedia Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:01_Chateau_Peles.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Romania"
+    },
+    "RU": {
+      "image": "images/countries/ru.webp",
+      "caption": "Spasskaya Tower and the Kremlin wall on the Red Square in Moscow",
+      "credit": "Юрий Д.К.",
+      "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_Red_Square,_the_Kremlin_Wall_and_Lenin%27s_Mausoleum.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Russia"
+    },
+    "RW": {
+      "image": "images/countries/rw.webp",
+      "caption": "Kigali City Street in 2018",
+      "credit": "Emmanuelkwizera",
+      "source": "https://commons.wikimedia.org/wiki/File:High_Angle_View_Of_Kigali_City_Street_on_November_29,_2018._Emmanuel_Kwizera.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Rwanda"
+    },
+    "BL": {
+      "image": "images/countries/bl.webp",
+      "caption": "Gustavia Harbour Saint-Barthelemy",
+      "credit": "Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustavia_Harbour_St_Barthelemy.JPG",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint-Barth%C3%A9lemy"
+    },
+    "SH": {
+      "image": "images/countries/sh.webp",
+      "caption": "Ascension Island, 2011; Saint Helena, Ascension and Tristan da Cunha banner",
+      "credit": "LordHarris",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Helena,_Ascension_and_Tristan_da_Cunha-banner.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Helena%2C_Ascension_and_Tristan_da_Cunha"
+    },
+    "KN": {
+      "image": "images/countries/kn.webp",
+      "caption": "Part of Brimstone Hill, a historic fortification on the northwest coast of St. Kitts, built on an ancient volcanic core",
+      "credit": "Flickr user: jthetzel https://www.flickr.com/photos/jthetzel/",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Kitts_02.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis"
+    },
+    "LC": {
+      "image": "images/countries/lc.webp",
+      "caption": "Soufriere",
+      "credit": "Mathiasv",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint-Lucia-Soufriere.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Lucia"
+    },
+    "PM": {
+      "image": "images/countries/pm.webp",
+      "caption": "Port of Saint-Pierre",
+      "credit": "miquelon",
+      "source": "https://commons.wikimedia.org/wiki/File:3dansleportdestpierre2.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Pierre_and_Miquelon"
+    },
+    "MF": {
+      "image": "images/countries/mf.webp",
+      "caption": "The French-Dutch border; one of the extremely few land borders in the Caribbean",
+      "credit": "Michael A. Orlando",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Martin_Dutch-French_Border_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Martin"
+    },
+    "VC": {
+      "image": "images/countries/vc.webp",
+      "caption": "Fishermen at Bequia Island",
+      "credit": "Kevin Gabbert - User: (WT-shared) Kevin James at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Vincent_and_the_Grenadines_Bequia_Island.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines"
+    },
+    "WS": {
+      "image": "images/countries/ws.webp",
+      "caption": "Blowhole on Savaii",
+      "credit": "Sarah Kelemen",
+      "source": "https://commons.wikimedia.org/wiki/File:Blowholes_and_people_-_Palauli_-_Samoa.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Samoa"
+    },
+    "ST": {
+      "image": "images/countries/st.webp",
+      "caption": "Pico Cão Grande",
+      "credit": "Philippe Bourachot",
+      "source": "https://commons.wikimedia.org/wiki/File:Pico_C%C3%A3o_Grande.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+    },
+    "SM": {
+      "image": "images/countries/sm.webp",
+      "caption": "Guaita tower atop Mount Titano is the symbol of San Marino",
+      "credit": "Nochestrellada",
+      "source": "https://commons.wikimedia.org/wiki/File:Castello_di_San_Marino.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/San_Marino"
+    },
+    "SN": {
+      "image": "images/countries/sn.webp",
+      "caption": "Senegambian stone circles",
+      "credit": "John Atherton",
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9galitheS%C3%A9n%C3%A9gal.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Senegal"
+    },
+    "RS": {
+      "image": "images/countries/rs.webp",
+      "caption": "City of Subotica, Town Hall",
+      "credit": "I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery .",
+      "source": "https://commons.wikimedia.org/wiki/File:Subotica,_radnice.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Serbia"
+    },
+    "SL": {
+      "image": "images/countries/sl.webp",
+      "caption": "Fishing boat in Port Loko river",
+      "credit": "Ghassan Mroue",
+      "source": "https://commons.wikimedia.org/wiki/File:Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Sierra_Leone"
+    },
+    "SC": {
+      "image": "images/countries/sc.webp",
+      "caption": "La Digue sunset",
+      "credit": "otterboris",
+      "source": "https://commons.wikimedia.org/wiki/File:LA_DIGUE,_SEYCHELLES,_2015_-_panoramio_(24).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Seychelles"
+    },
+    "SG": {
+      "image": "images/countries/sg.webp",
+      "caption": "The Singapore CBD skyline",
+      "credit": "Basile Morin",
+      "source": "https://commons.wikimedia.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Singapore"
+    },
+    "SX": {
+      "image": "images/countries/sx.webp",
+      "caption": "Beach behind shops in the centre, before the boardwalk was built in 2006",
+      "credit": "User: (WT-shared) OldPine at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:PhilipsburgBeach.jpg",
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Philipsburg"
+    },
+    "SK": {
+      "image": "images/countries/sk.webp",
+      "caption": "High Tatras",
+      "credit": "Oleksandr Dede",
+      "source": "https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_vyfocen%C3%A9_z_Lys%C3%A9_hory.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Slovakia"
+    },
+    "SB": {
+      "image": "images/countries/sb.webp",
+      "caption": "View from Fenualoa towards Tinakula",
+      "credit": "Pohopetch",
+      "source": "https://commons.wikimedia.org/wiki/File:Fenualoa_lagoon_2-4.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Solomon_Islands"
+    },
+    "SO": {
+      "image": "images/countries/so.webp",
+      "caption": "A view of Lido beach from the sea in Mogadishu, Somalia on 15 November 2019.",
+      "credit": "AMISOM",
+      "source": "https://commons.wikimedia.org/wiki/File:Mogadishu_banner_Lido_Beach.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Somalia"
+    },
+    "GS": {
+      "image": "images/countries/gs.webp",
+      "caption": "Lenticular clouds",
+      "credit": "Butterfly austral",
+      "source": "https://commons.wikimedia.org/wiki/File:Lenticular_Clouds_South_Georgia1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/South_Georgia_Island"
+    },
+    "SS": {
+      "image": "images/countries/ss.webp",
+      "caption": "Village hut in South Sudan",
+      "credit": "Fabrizio Demartis",
+      "source": "https://commons.wikimedia.org/wiki/File:Sudan_Juba_hut_30dez2005.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/South_Sudan"
+    },
+    "LK": {
+      "image": "images/countries/lk.webp",
+      "caption": "Morning mist in Sinharaja rainforest",
+      "credit": "Chamal N",
+      "source": "https://commons.wikimedia.org/wiki/File:Morning_mist_in_Sinharaja.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Sri_Lanka"
+    },
+    "SD": {
+      "image": "images/countries/sd.webp",
+      "caption": "Al Barkal Mountain, Sudan",
+      "credit": "Noory Taha",
+      "source": "https://commons.wikimedia.org/wiki/File:Albarkal_Mountain_,_Northern_sudan,.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Sudan"
+    },
+    "SR": {
+      "image": "images/countries/sr.webp",
+      "caption": "Fort Zeelandia was once the main stronghold of the Dutch colonial forces in the region.",
+      "credit": "Rijksdienst voor het Cultureel Erfgoed",
+      "source": "https://commons.wikimedia.org/wiki/File:Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Suriname"
+    },
+    "SJ": {
+      "image": "images/countries/sj.webp",
+      "caption": "Svalbard from above",
+      "credit": "User: (WT-shared) Elgaard at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:SvalbardFromAbove.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Svalbard"
+    },
+    "CH": {
+      "image": "images/countries/ch.webp",
+      "caption": "Bern",
+      "credit": "Daniel Kraft",
+      "source": "https://commons.wikimedia.org/wiki/File:Bern_Panorama_von_Rosengarten_20211007.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Switzerland"
+    },
+    "SE": {
+      "image": "images/countries/se.webp",
+      "caption": "The Gävle",
+      "credit": "Seppo Laine",
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%A4vle_goat_on_December_21,_2009.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Sweden"
+    },
+    "TW": {
+      "image": "images/countries/tw.webp",
+      "caption": "Taipei at night",
+      "credit": "Titoni Thomas",
+      "source": "https://commons.wikimedia.org/wiki/File:TWTC_ITB,_TICC_and_Taipei_101_20100410_night.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Taiwan"
+    },
+    "TJ": {
+      "image": "images/countries/tj.webp",
+      "caption": "Iskanderkul Lake in the Zeravshan Valley",
+      "credit": "Rjruiziii",
+      "source": "https://commons.wikimedia.org/wiki/File:Iskander-kul,_Tajikistan.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tajikistan"
+    },
+    "TL": {
+      "image": "images/countries/tl.webp",
+      "caption": "Jaco Island",
+      "credit": "Andidut at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Jaco_Island.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Timor-Leste"
+    },
+    "TZ": {
+      "image": "images/countries/tz.webp",
+      "caption": "Ngorongoro landscape",
+      "credit": "Harvey Barrison from Massapequa, NY, USA",
+      "source": "https://commons.wikimedia.org/wiki/File:Ngorongoro_2012_05_29_2253_(7500941860).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tanzania"
+    },
+    "TG": {
+      "image": "images/countries/tg.webp",
+      "caption": "Independence monument in Lomé",
+      "credit": "twohundred 2010",
+      "source": "https://commons.wikimedia.org/wiki/File:Lom%C3%A9-Monument_de_l%27Ind%C3%A9pendance.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Togo"
+    },
+    "TK": {
+      "image": "images/countries/tk.webp",
+      "caption": "Atafu",
+      "credit": "NASA Johnson Space Center",
+      "source": "https://commons.wikimedia.org/wiki/File:Atafu.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tokelau"
+    },
+    "TT": {
+      "image": "images/countries/tt.webp",
+      "caption": "Paria Arch on the North Coast of Trinidad.",
+      "credit": "Aneil Lutchman",
+      "source": "https://commons.wikimedia.org/wiki/File:Paria_Arch.JPG",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago"
+    },
+    "TO": {
+      "image": "images/countries/to.webp",
+      "caption": "Ha'amonga 'a Maui trilithon",
+      "credit": "Tony Bowden from Tallinn, Estonia",
+      "source": "https://commons.wikimedia.org/wiki/File:Haamonga-A-Maui.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tonga"
+    },
+    "TN": {
+      "image": "images/countries/tn.webp",
+      "caption": "The Ribat at Sousse, a UNESCO World Heritage Site",
+      "credit": "User: (WT-shared) Shoestring at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Ribat,_Sousse,_Tunisia.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tunisia"
+    },
+    "TM": {
+      "image": "images/countries/tm.webp",
+      "caption": "Darvaza flaming crater",
+      "credit": "Stefan Krasowski",
+      "source": "https://commons.wikimedia.org/wiki/File:Central_Asia_100.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Turkmenistan"
+    },
+    "TC": {
+      "image": "images/countries/tc.webp",
+      "caption": "Chalk Sound has some of the most uniform turquoise water I have ever seen. Taken February, 2011 in Chalk Sound, Providenciales, Turks and Caicos Islands ¹⁄₄₀₀ sec at f/11, ISO200, no flash.",
+      "credit": "Chalk_Sound.jpg : Tim Sackton derivative work: Jjtkk",
+      "source": "https://commons.wikimedia.org/wiki/File:Providenciales_(Turks_and_Caicos_Islands)_banner_Chalk_Sound.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Turks_and_Caicos_Islands"
+    },
+    "TV": {
+      "image": "images/countries/tv.webp",
+      "caption": "Funafuti Beach",
+      "credit": "Original: Stefan Lins Modifications: The original uploader was Cornischong at Luxembourgish Wikipedia .",
+      "source": "https://commons.wikimedia.org/wiki/File:Funafuti_Plage_w.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Tuvalu"
+    },
+    "UG": {
+      "image": "images/countries/ug.webp",
+      "caption": "Lake Bunyonyi",
+      "credit": "User:Edirisa",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_Bunyonyi.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Uganda"
+    },
+    "UA": {
+      "image": "images/countries/ua.webp",
+      "caption": "The northern part of Czarnohora (Eastern Carpathians), the highest mountains in Ukraine. The highest peak in the picture is Howerla (2061 m)",
+      "credit": "Marek Krzysztof Misztal",
+      "source": "https://commons.wikimedia.org/wiki/File:Czarnohora.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Ukraine"
+    },
+    "GB": {
+      "image": "images/countries/gb.webp",
+      "caption": "Edinburgh panorama",
+      "credit": "Andrew Colin",
+      "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/United_Kingdom"
+    },
+    "UM": {
+      "image": "images/countries/um.webp",
+      "caption": "Cable building and albatrosses",
+      "credit": "Forest & Kim Starr",
+      "source": "https://commons.wikimedia.org/wiki/File:Starr_080531-4733_Midway_Island_Cable_station_building_(nb_643)_in_May_2008_with_cocos_nucifera.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Midway_Islands"
+    },
+    "VI": {
+      "image": "images/countries/vi.webp",
+      "caption": "Turtle Beach, Buck Island",
+      "credit": "Jaro Nemčok",
+      "source": "https://commons.wikimedia.org/wiki/File:Buck_Island_Turtle_Beach.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/U.S._Virgin_Islands"
+    },
+    "UZ": {
+      "image": "images/countries/uz.webp",
+      "caption": "Bukhara",
+      "credit": "Euyasik",
+      "source": "https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Uzbekistan"
+    },
+    "UY": {
+      "image": "images/countries/uy.webp",
+      "caption": "Leaves falling in May, Colonia",
+      "credit": "Ypsilon from Finland",
+      "source": "https://commons.wikimedia.org/wiki/File:Calle_Washington_Barbot.JPG",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Uruguay"
+    },
+    "VU": {
+      "image": "images/countries/vu.webp",
+      "caption": "Port-Vila Harbour",
+      "credit": "Graham Crumb/ Imagicity.com",
+      "source": "https://commons.wikimedia.org/wiki/File:Port_Vila_Harbour_(Imagicity_816).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Vanuatu"
+    },
+    "VA": {
+      "image": "images/countries/va.webp",
+      "caption": "Baldacchino and Dome, St. Peter's Basilica",
+      "credit": "User: (WT-shared) Jtesla16 at wts wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Peter%27s.JPG",
+      "license": "CC BY-SA 1.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Rome/Vatican"
+    },
+    "VE": {
+      "image": "images/countries/ve.webp",
+      "caption": "Angel Falls",
+      "credit": "Elias Rodriguez Azcarate",
+      "source": "https://commons.wikimedia.org/wiki/File:Salto_Angel_desde_la_curiara.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Venezuela"
+    },
+    "VN": {
+      "image": "images/countries/vn.webp",
+      "caption": "Van Long Nature Reserve in Ninh Binh",
+      "credit": "Kien1980v ( thảo luận )",
+      "source": "https://commons.wikimedia.org/wiki/File:Van_long_NB.jpg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Vietnam"
+    },
+    "WF": {
+      "image": "images/countries/wf.webp",
+      "caption": "Sunset in Vailala",
+      "credit": "Skimel",
+      "source": "https://commons.wikimedia.org/wiki/File:Coucher_de_soleil_Vailala.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Wallis_and_Futuna"
+    },
+    "EH": {
+      "image": "images/countries/eh.webp",
+      "caption": "Road N1 close to the Golfe de Cintra.",
+      "credit": "Trincerone",
+      "source": "https://commons.wikimedia.org/wiki/File:FortecolorWestsaharaIII-66.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Western_Sahara"
+    },
+    "ZM": {
+      "image": "images/countries/zm.webp",
+      "caption": "Elephants crossing the Luangwa River, South Luangwa National Park",
+      "credit": "(WT-en) Jpatokal at English Wikivoyage",
+      "source": "https://commons.wikimedia.org/wiki/File:Elephants_CrossingRiver.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Zambia"
+    },
+    "ZW": {
+      "image": "images/countries/zw.webp",
+      "caption": "Skyline of Harare, Capital of Zimbabwe",
+      "credit": "David Brazier",
+      "source": "https://commons.wikimedia.org/wiki/File:Eastgate_Centre,_Harare,_Zimbabwe.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Zimbabwe"
+    },
+    "AW": {
+      "image": "images/countries/aw.webp",
+      "caption": "Guadirikiri Cave",
+      "credit": "madmack66",
+      "source": "https://commons.wikimedia.org/wiki/File:Guadirikiri_Cave.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Aruba"
+    },
+    "BJ": {
+      "image": "images/countries/bj.webp",
+      "caption": "Royal Palaces of Abomey",
+      "credit": "Karalyn Monteil",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Palaces_of_Abomey-133477.jpg",
+      "license": "CC BY-SA 3.0 igo",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/Benin"
+    },
+    "CI": {
+      "image": "images/countries/ci.webp",
+      "caption": "A busy day in Abidjan",
+      "credit": "Willy Stephane Awaho",
+      "source": "https://commons.wikimedia.org/wiki/File:Rond-point_Libert%C3%A9_Adjam%C3%A9.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceArticle": "https://en.wikivoyage.org/wiki/C%C3%B4te_d%27Ivoire"
+    }
+  }
+}

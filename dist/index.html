@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f45136">
+  <meta name="description" content="Find a trip that fits your budget and your kind of adventure. Compare destinations, plan your stay, and check hotel and flight availability.">
+  <title>ByeBye — Find your kind of trip</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%23f45136'/%3E%3Cpath d='m9 27 6-16 5 10 11-5-10 15-1-9z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="countries.js" defer></script>
+  <script src="featured.js" defer></script>
+  <script src="canada.js" defer></script>
+  <script src="world-photos.js" defer></script>
+  <script src="country-photos.js" defer></script>
+  <script src="airports.js" defer></script>
+  <script src="currency-data.js" defer></script>
+  <script src="currency.js" defer></script>
+  <script src="planner.js" defer></script>
+  <script src="budget-calculator.js" defer></script>
+  <script src="favourites.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="airports-ui.js" defer></script>
+  <script src="trip-options.js" defer></script>
+  <script src="calculator-ui.js" defer></script>
+  <script src="countries-ui.js" defer></script>
+  <script src="currency-ui.js" defer></script>
+  <script src="departure-ui.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#planner">Skip to trip planner</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="ByeBye home"><span class="brand-symbol" aria-hidden="true">↗</span>bye<span>bye</span><i>.</i></a>
+    <div class="header-caption">A little less planning. A lot more going.</div>
+    <nav class="header-actions" aria-label="Trip navigation"><button class="favourites-nav" id="favourites-button"><span aria-hidden="true">♡</span> Favourites <span id="favourites-count">0</span></button><button class="text-button how-button" id="how-button"><span class="circle-info" aria-hidden="true">i</span> How it works</button></nav>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">GOOD TRIPS START HERE</p><h1 id="page-title">Your budget. <span>Your kind of trip.</span></h1><p class="intro-copy">Tell us what you love. Discover where you could go.</p></div>
+      <div class="intro-note"><span aria-hidden="true">✳</span> Room for a little<br>spontaneity.</div>
+    </section>
+    <div class="workspace">
+      <section class="planner" id="planner" aria-labelledby="form-title">
+        <div class="steps" aria-label="Trip planning steps">
+          <button class="step active" data-step="0" aria-current="step"><span>1</span> The basics</button>
+          <span class="step-line"></span>
+          <button class="step" data-step="1"><span>2</span> Your vibe</button>
+          <span class="step-line"></span>
+          <button class="step" data-step="2"><span>3</span> The details</button>
+        </div>
+        <form id="trip-form">
+          <div class="form-heading"><p class="eyebrow" id="step-count">STEP 01 / 03</p><h2 id="form-title" tabindex="-1">Let's start with the essentials.</h2><p id="step-description">Big adventure or little escape? It's up to you.</p></div>
+          <fieldset class="form-step" id="step-0"><legend class="sr-only">Budget and travel details</legend>
+            <label for="currency">Your currency</label><select id="currency" name="currency" aria-describedby="currency-rate-note"><option value="EUR">EUR · Euro</option></select><p id="currency-rate-note" class="currency-note"></p>
+            <div class="field-header"><label for="budget">Total trip budget</label><span>For everyone, in EUR</span></div>
+            <div class="budget-input"><span aria-hidden="true">€</span><input id="budget" name="budget" type="number" min="200" max="30000" step="50" value="2000" required aria-describedby="budget-hint"><span class="budget-edit" aria-hidden="true">↗</span></div>
+            <input id="budget-range" aria-label="Adjust total budget" type="range" min="200" max="10000" step="50" value="2000">
+            <div class="range-labels"><span>€200</span><span>€10,000+</span></div>
+            <p class="field-hint" id="budget-hint">Flights, a place to stay, food, and a little exploring.</p>
+            <label for="origin-country">Flying from — country</label><select id="origin-country" aria-describedby="origin-help"></select>
+            <label for="origin-search">Search departure airports</label><input id="origin-search" type="search" placeholder="Country, city, airport name, or code" autocomplete="off" aria-controls="origin">
+            <label for="origin">Departure airport</label><select id="origin" name="origin" aria-describedby="origin-help"></select><p class="field-hint" id="origin-help" role="status"></p>
+            <div class="two-fields">
+              <div><label for="departure">Departure date</label><input type="date" name="departure" id="departure" required></div>
+              <div><label for="nights">How long?</label><select name="nights" id="nights"><option value="3">3 nights</option><option value="5" selected>5 nights</option><option value="7">7 nights</option><option value="10">10 nights</option><option value="14">14 nights</option></select></div>
+            </div>
+            <div class="traveller-row"><div><label for="travellers">Who's coming?</label><span class="field-hint">Adult travellers</span></div><div class="counter"><button id="fewer" type="button" aria-label="One fewer traveller">−</button><input id="travellers" name="travellers" type="number" min="1" max="8" value="2" required aria-label="Number of adult travellers"><button id="more" type="button" aria-label="One more traveller">+</button></div></div>
+          </fieldset>
+          <fieldset class="form-step" id="step-1" hidden><legend class="sr-only">Destination preferences</legend>
+            <label>What sounds like your kind of escape?</label>
+            <div class="choice-grid vibe-options">
+              <label class="choice"><input type="radio" name="vibe" value="beach"><span class="choice-icon" aria-hidden="true">☀</span><strong>Coast & sunshine</strong><small>Sea air and slower days</small></label>
+              <label class="choice"><input type="radio" name="vibe" value="culture" checked><span class="choice-icon" aria-hidden="true">▥</span><strong>City & culture</strong><small>Wander, discover, repeat</small></label>
+              <label class="choice"><input type="radio" name="vibe" value="nature"><span class="choice-icon" aria-hidden="true">♧</span><strong>Into nature</strong><small>Green spaces and fresh air</small></label>
+              <label class="choice"><input type="radio" name="vibe" value="any"><span class="choice-icon" aria-hidden="true">✳</span><strong>Surprise me</strong><small>Open to something new</small></label>
+            </div>
+            <label for="region">Where are you drawn to?</label><select id="region" name="region"><option value="any">All continents</option><option>Asia</option><option>Middle East</option><option>Europe</option><option>Africa</option><option>North America</option><option>South America</option><option>Oceania</option><option>Antarctica</option></select>
+            <label for="country-input" class="country-input-label">Have a country in mind?</label><input type="search" id="country-input" list="country-options" placeholder="Any country — or start typing" autocomplete="off" aria-describedby="country-input-hint"><datalist id="country-options"></datalist>
+            <div class="small-note" id="country-input-hint">Every country, all seven continents. Popular places come first; you can change your destination anytime.</div>
+          </fieldset>
+          <fieldset class="form-step" id="step-2" hidden><legend class="sr-only">Food and hotel preferences</legend>
+            <label>What's on the menu?</label>
+            <div class="pill-choices"><label><input type="radio" name="food" value="local" checked><span>Local favourites</span></label><label><input type="radio" name="food" value="seafood"><span>Seafood</span></label><label><input type="radio" name="food" value="vegetarian"><span>Vegetarian</span></label><label><input type="radio" name="food" value="halal"><span>Halal options</span></label><label><input type="radio" name="food" value="any"><span>A bit of everything</span></label></div>
+            <label class="stay-label">Your ideal place to stay</label>
+            <div class="stay-options"><label class="stay-choice"><input type="radio" name="stay" value="simple"><span><strong>Simple & good value</strong><small>More budget for the adventure</small></span><span class="stay-level">€</span></label><label class="stay-choice"><input type="radio" name="stay" value="boutique" checked><span><strong>A little character</strong><small>Boutique stays and local charm</small></span><span class="stay-level">€€</span></label><label class="stay-choice"><input type="radio" name="stay" value="comfort"><span><strong>Extra comfort</strong><small>Room to relax and recharge</small></span><span class="stay-level">€€€</span></label></div>
+            <p class="field-hint">Food preferences guide suggestions. Confirm dietary requirements with individual restaurants.</p>
+          </fieldset>
+          <p class="form-error" id="form-error" role="alert" hidden></p>
+          <div class="form-actions"><button class="back-button" id="back-button" type="button" hidden>← Back</button><button class="primary-button" id="next-button" type="submit">Next: your vibe <span aria-hidden="true">→</span></button></div>
+          <p class="form-footnote"><span aria-hidden="true">✧</span> A few choices. A world of possibilities.</p>
+        </form>
+      </section>
+      <section class="inspiration" aria-labelledby="inspiration-heading">
+        <div class="section-topline"><span class="eyebrow" id="inspiration-heading">A LITTLE INSPIRATION</span><span class="subtle-label" id="preview-label">One place you could go</span></div>
+        <div class="destination-hero" id="hero"><div class="hero-image" id="hero-image"></div><div class="hero-shade"></div><div class="hero-top"><span class="white-pill" id="hero-badge">A little island time.</span><span class="hero-coordinate" id="hero-coordinate">11.2027° N · 119.4179° E</span></div><div class="hero-bottom"><p id="hero-country">PHILIPPINES</p><h2 id="hero-city">Palawan<span>↗</span></h2><p id="hero-tagline">Limestone cliffs. Lagoon-blue days.</p></div></div>
+        <div class="inspiration-meta" id="inspiration-meta"><div><span class="mini-icon" aria-hidden="true">☀</span><span>Island scenery<br><strong>Lagoons & limestone</strong></span></div><div><span class="mini-icon" aria-hidden="true">♧</span><span>Local flavours<br><strong>Seafood by the water</strong></span></div><div><span class="mini-icon" aria-hidden="true">⌁</span><span>Your own pace<br><strong>A slower kind of day</strong></span></div></div>
+        <div class="inspiration-bottom"><span class="tiny-stamp" aria-hidden="true">B<br>B</span><p>The best trip isn't the most expensive one.<br><strong>It's the one that feels like you.</strong></p><span aria-hidden="true">↗</span></div>
+        <p class="photo-credit">Photo: <a href="https://unsplash.com/photos/xBdM6lnp8NA" target="_blank" rel="noopener noreferrer">Jared Rice</a> · <a href="https://unsplash.com/license" target="_blank" rel="noopener noreferrer">Unsplash License</a> · Resized and cropped to fit</p>
+      </section>
+    </div>
+    <section class="results" id="results" hidden aria-labelledby="results-title"><div class="results-heading"><div><p class="eyebrow">YOUR NEXT CHAPTER</p><h2 id="results-title" tabindex="-1">A trip with your name on it.</h2><p id="results-summary"></p></div><button class="outline-button" id="edit-trip">Edit preferences ↗</button></div><div id="results-content"></div></section>
+    <section class="favourites-panel" id="favourites-panel" hidden aria-labelledby="favourites-title"><div class="results-heading"><div><p class="eyebrow">KEEP THE POSSIBILITIES CLOSE</p><h2 id="favourites-title" tabindex="-1">Your favourite trips.</h2><p>Saved in this browser on this device. No sign-in needed.</p></div><button class="outline-button" id="close-favourites">← Back to planning</button></div><p class="match-notice warning" id="favourites-error" role="alert" hidden></p><div class="trip-choice-grid" id="favourites-grid"></div><p class="saved-note">Your dates, budget, and preferences stay with each saved trip. Clearing this browser’s site data removes your favourites.</p></section>
+    <section class="country-explorer" id="country-explorer" aria-labelledby="explore-title">
+      <div class="explorer-heading"><div><p class="eyebrow">A WHOLE WORLD TO CHOOSE FROM</p><h2 id="explore-title">Popular places. Endless possibilities.</h2><p>Start with a favourite, or find a country of your own.</p></div><span class="country-count-badge">250 countries & territories</span></div>
+      <div class="continent-tabs" role="group" aria-label="Filter destinations by continent or region"><button data-continent="any" aria-pressed="true">Everywhere</button><button data-continent="Asia" aria-pressed="false">Asia</button><button data-continent="Middle East" aria-pressed="false">Middle East</button><button data-continent="North America" aria-pressed="false">North America</button><button data-continent="Europe" aria-pressed="false">Europe</button><button data-continent="Africa" aria-pressed="false">Africa</button><button data-continent="South America" aria-pressed="false">South America</button><button data-continent="Oceania" aria-pressed="false">Oceania</button><button data-continent="Antarctica" aria-pressed="false">Antarctica</button></div>
+      <div class="country-toolbar"><div class="country-search-box"><label class="sr-only" for="explore-search">Search all countries and territories</label><span aria-hidden="true">⌕</span><input id="explore-search" type="search" placeholder="Search a country, city, or territory…" autocomplete="off"></div><div><label class="sr-only" for="country-sort">Sort countries</label><select id="country-sort"><option value="popular">Popular first</option><option value="az">Country A–Z</option></select></div></div>
+      <p class="country-results-count" id="country-results-count" role="status"></p><div class="country-grid" id="country-grid"></div><div class="load-countries"><button id="load-countries" class="outline-button">Show more countries ↓</button></div>
+      <p class="country-data-note">Featured picks are handpicked, not a live popularity ranking. Country directory adapted from <a href="https://github.com/mledoze/countries" target="_blank" rel="noopener noreferrer">mledoze/countries</a>, under <a href="COUNTRY-DATA-LICENSE.txt" target="_blank">ODbL 1.0</a>. <a href="countries.json" download>Download country data</a>.</p>
+    </section>
+    <p class="currency-attribution"><span id="currency-footer-date"></span> Currency conversions use <a href="https://github.com/fawazahmed0/exchange-api" target="_blank" rel="noopener noreferrer">open exchange-rate data</a>. Booking providers may use a different currency or exchange rate.</p><footer><span class="footer-brand">bye bye, overthinking.</span><span>Made for the way you want to go.</span><button id="estimates-button" class="text-button">About the estimates</button></footer>
+  </main>
+  <dialog id="info-dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="Close dialog">×</button><div id="dialog-body"></div></dialog>
+  <div class="sr-only" id="announcements" role="status" aria-live="polite"></div>
+</body>
+</html>
