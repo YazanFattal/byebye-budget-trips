@@ -1,0 +1,11 @@
+{
+  "name": "byebye-budget-trips",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ByeBye travel budget planner",
+  "scripts": {
+    "start": "node preview.mjs",
+    "test": "node verify-trip-features.mjs && node verify-budget-calculator.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
