@@ -5,7 +5,7 @@
   "description": "ByeBye travel budget planner",
   "scripts": {
     "start": "node preview.mjs",
-    "test": "node verify-trip-features.mjs && node verify-budget-calculator.mjs"
+    "test": "node verify-trip-features.mjs && node verify-budget-calculator.mjs && node verify-guided-journey.mjs"
   },
   "engines": { "node": ">=22" }
 }

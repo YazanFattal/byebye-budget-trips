@@ -1,14 +1,21 @@
 # ByeBye
 
-A travel planner that helps people discover destinations and estimate a trip within their budget.
+A mobile-first travel discovery app that helps people find destinations and estimate their trip costs.
 
-- Browse 250 countries and territories, with destination photos and popular choices first.
+- Follow a guided journey from budget and departure airport through dates, travel group, interests, region, pace, food preferences, and accommodation style.
+- Review and edit every answer before revealing a destination, with specific match reasons and three alternative choices.
+- Browse 250 countries and territories, with destination photos and popular choices first, including Canada and the Middle East.
 - Choose a departure country and search worldwide passenger airports.
-- Compare trip options, save favourites on your device, and calculate your own costs.
+- Compare trip options, save favourites on your device, and calculate flights, accommodation, food, transport, activities, extras, and an optional buffer.
+- See the full budget assessment only when every cost category has a valid value. Missing costs remain visibly incomplete.
 - Choose from 160 currencies.
 - Open Google Flights and Booking.com to check current prices and availability.
 
 Flight and hotel links open external providers. Any sample costs are illustrative estimates, not live fares or confirmed availability. For routes without an estimate, travellers can enter their own costs in the calculator. No maximum return-flight price filter is applied.
+
+The total budget covers everyone travelling. Booking links carry dates, airports, rooms, and passenger details. Children's ages are entered for the return date; flight passenger categories and hotel ages are handled separately. Family flight costs require a user-entered price. Food choices express preferences, not verified restaurant availability.
+
+Existing saved trips are read from the same device-storage key. New favourites can also retain entered calculator values. Display currencies share an underlying EUR amount, so changing currency preserves the budget's value.
 
 ## Run locally
 
@@ -25,6 +32,8 @@ Open http://127.0.0.1:4173. No dependency installation or build step is needed. 
 ```sh
 npm test
 ```
+
+The checks cover catalog and photo integrity, calculator arithmetic and incomplete totals, recommendation filters, alternative matches, passenger encoding, provider links, and compatibility with saved trips. The responsive preview at `/__responsive?width=390` is a local development aid; it is not included in the published website.
 
 ## Publish
 
