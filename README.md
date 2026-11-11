@@ -25,8 +25,6 @@ Install Node.js 22 or newer, then run:
 npm start
 ```
 
-Open http://127.0.0.1:4173. No dependency installation or build step is needed. The complete website is in `dist/`.
-
 ## Check the app
 
 ```sh
